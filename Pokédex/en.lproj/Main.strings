@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; normalTitle = "Previous"; ObjectID = "8gV-KP-qow"; */
+"8gV-KP-qow.normalTitle" = "Previous";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "LwB-av-ksl"; */
+"LwB-av-ksl.text" = "Subtitle";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "hXw-ng-kA0"; */
+"hXw-ng-kA0.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "pbP-R1-kYb"; */
+"pbP-R1-kYb.normalTitle" = "Next";
